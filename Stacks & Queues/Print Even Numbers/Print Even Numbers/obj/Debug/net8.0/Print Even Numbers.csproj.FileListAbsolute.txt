@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Print Even Numbers\Print Even Numbers\bin\Debug\net8.0\Print Even Numbers.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Print Even Numbers\Print Even Numbers\bin\Debug\net8.0\Print Even Numbers.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Print Even Numbers\Print Even Numbers\bin\Debug\net8.0\Print Even Numbers.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Print Even Numbers\Print Even Numbers\bin\Debug\net8.0\Print Even Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Print Even Numbers\Print Even Numbers\bin\Debug\net8.0\Print Even Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net8.0\Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net8.0\Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net8.0\Print Even Numbers.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net8.0\Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net8.0\Print Even Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net8.0\refint\Print Even Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net8.0\Print Even Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net8.0\Print Even Numbers.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Print Even Numbers\Print Even Numbers\obj\Debug\net8.0\ref\Print Even Numbers.dll
