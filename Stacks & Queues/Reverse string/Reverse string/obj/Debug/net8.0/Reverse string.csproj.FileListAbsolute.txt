@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Reverse string\Reverse string\bin\Debug\net8.0\Reverse string.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Reverse string\Reverse string\bin\Debug\net8.0\Reverse string.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Reverse string\Reverse string\bin\Debug\net8.0\Reverse string.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Reverse string\Reverse string\bin\Debug\net8.0\Reverse string.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Reverse string\Reverse string\bin\Debug\net8.0\Reverse string.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Reverse string\Reverse string\obj\Debug\net8.0\Reverse string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Reverse string\Reverse string\obj\Debug\net8.0\Reverse string.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Reverse string\Reverse string\obj\Debug\net8.0\Reverse string.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Reverse string\Reverse string\obj\Debug\net8.0\Reverse string.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Reverse string\Reverse string\obj\Debug\net8.0\Reverse string.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Reverse string\Reverse string\obj\Debug\net8.0\refint\Reverse string.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Reverse string\Reverse string\obj\Debug\net8.0\Reverse string.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Reverse string\Reverse string\obj\Debug\net8.0\Reverse string.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Lab\Reverse string\Reverse string\obj\Debug\net8.0\ref\Reverse string.dll
