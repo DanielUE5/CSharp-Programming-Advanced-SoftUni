@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Average Student Grades\Average Student Grades\bin\Debug\net8.0\Average Student Grades.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Average Student Grades\Average Student Grades\bin\Debug\net8.0\Average Student Grades.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Average Student Grades\Average Student Grades\bin\Debug\net8.0\Average Student Grades.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Average Student Grades\Average Student Grades\bin\Debug\net8.0\Average Student Grades.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Average Student Grades\Average Student Grades\bin\Debug\net8.0\Average Student Grades.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Average Student Grades\Average Student Grades\obj\Debug\net8.0\Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Average Student Grades\Average Student Grades\obj\Debug\net8.0\Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Average Student Grades\Average Student Grades\obj\Debug\net8.0\Average Student Grades.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Average Student Grades\Average Student Grades\obj\Debug\net8.0\Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Average Student Grades\Average Student Grades\obj\Debug\net8.0\Average Student Grades.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Average Student Grades\Average Student Grades\obj\Debug\net8.0\refint\Average Student Grades.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Average Student Grades\Average Student Grades\obj\Debug\net8.0\Average Student Grades.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Average Student Grades\Average Student Grades\obj\Debug\net8.0\Average Student Grades.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Average Student Grades\Average Student Grades\obj\Debug\net8.0\ref\Average Student Grades.dll
