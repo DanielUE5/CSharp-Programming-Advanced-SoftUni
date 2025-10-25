@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\Count Symbols\Count Symbols\bin\Debug\net8.0\Count Symbols.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\Count Symbols\Count Symbols\bin\Debug\net8.0\Count Symbols.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\Count Symbols\Count Symbols\bin\Debug\net8.0\Count Symbols.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\Count Symbols\Count Symbols\bin\Debug\net8.0\Count Symbols.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\Count Symbols\Count Symbols\bin\Debug\net8.0\Count Symbols.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\Count Symbols\Count Symbols\obj\Debug\net8.0\Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\Count Symbols\Count Symbols\obj\Debug\net8.0\Count Symbols.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\Count Symbols\Count Symbols\obj\Debug\net8.0\Count Symbols.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\Count Symbols\Count Symbols\obj\Debug\net8.0\Count Symbols.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\Count Symbols\Count Symbols\obj\Debug\net8.0\Count Symbols.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\Count Symbols\Count Symbols\obj\Debug\net8.0\refint\Count Symbols.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\Count Symbols\Count Symbols\obj\Debug\net8.0\Count Symbols.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\Count Symbols\Count Symbols\obj\Debug\net8.0\Count Symbols.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\Count Symbols\Count Symbols\obj\Debug\net8.0\ref\Count Symbols.dll
