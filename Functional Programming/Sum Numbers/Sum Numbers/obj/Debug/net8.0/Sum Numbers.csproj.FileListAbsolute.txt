@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sum Numbers\Sum Numbers\bin\Debug\net8.0\Sum Numbers.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sum Numbers\Sum Numbers\bin\Debug\net8.0\Sum Numbers.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sum Numbers\Sum Numbers\bin\Debug\net8.0\Sum Numbers.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sum Numbers\Sum Numbers\bin\Debug\net8.0\Sum Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sum Numbers\Sum Numbers\bin\Debug\net8.0\Sum Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sum Numbers\Sum Numbers\obj\Debug\net8.0\Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sum Numbers\Sum Numbers\obj\Debug\net8.0\Sum Numbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sum Numbers\Sum Numbers\obj\Debug\net8.0\Sum Numbers.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sum Numbers\Sum Numbers\obj\Debug\net8.0\Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sum Numbers\Sum Numbers\obj\Debug\net8.0\Sum Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sum Numbers\Sum Numbers\obj\Debug\net8.0\refint\Sum Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sum Numbers\Sum Numbers\obj\Debug\net8.0\Sum Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sum Numbers\Sum Numbers\obj\Debug\net8.0\Sum Numbers.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sum Numbers\Sum Numbers\obj\Debug\net8.0\ref\Sum Numbers.dll

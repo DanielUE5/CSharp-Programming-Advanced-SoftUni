@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sort Even Numbers\Sort Even Numbers\bin\Debug\net8.0\Sort Even Numbers.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sort Even Numbers\Sort Even Numbers\bin\Debug\net8.0\Sort Even Numbers.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sort Even Numbers\Sort Even Numbers\bin\Debug\net8.0\Sort Even Numbers.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sort Even Numbers\Sort Even Numbers\bin\Debug\net8.0\Sort Even Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sort Even Numbers\Sort Even Numbers\bin\Debug\net8.0\Sort Even Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sort Even Numbers\Sort Even Numbers\obj\Debug\net8.0\Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sort Even Numbers\Sort Even Numbers\obj\Debug\net8.0\Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sort Even Numbers\Sort Even Numbers\obj\Debug\net8.0\Sort Even Numbers.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sort Even Numbers\Sort Even Numbers\obj\Debug\net8.0\Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sort Even Numbers\Sort Even Numbers\obj\Debug\net8.0\Sort Even Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sort Even Numbers\Sort Even Numbers\obj\Debug\net8.0\refint\Sort Even Numbers.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sort Even Numbers\Sort Even Numbers\obj\Debug\net8.0\Sort Even Numbers.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sort Even Numbers\Sort Even Numbers\obj\Debug\net8.0\Sort Even Numbers.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Lab\Sort Even Numbers\Sort Even Numbers\obj\Debug\net8.0\ref\Sort Even Numbers.dll
