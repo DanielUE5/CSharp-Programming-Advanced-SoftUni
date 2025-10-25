@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Basic Stack Operations\Basic Stack Operations\bin\Debug\net8.0\Basic Stack Operations.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Basic Stack Operations\Basic Stack Operations\bin\Debug\net8.0\Basic Stack Operations.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Basic Stack Operations\Basic Stack Operations\bin\Debug\net8.0\Basic Stack Operations.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Basic Stack Operations\Basic Stack Operations\bin\Debug\net8.0\Basic Stack Operations.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Basic Stack Operations\Basic Stack Operations\bin\Debug\net8.0\Basic Stack Operations.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net8.0\Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net8.0\Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net8.0\Basic Stack Operations.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net8.0\Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net8.0\Basic Stack Operations.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net8.0\refint\Basic Stack Operations.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net8.0\Basic Stack Operations.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net8.0\Basic Stack Operations.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Basic Stack Operations\Basic Stack Operations\obj\Debug\net8.0\ref\Basic Stack Operations.dll
