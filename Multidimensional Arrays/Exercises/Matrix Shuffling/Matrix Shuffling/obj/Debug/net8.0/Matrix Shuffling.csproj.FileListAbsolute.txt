@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\bin\Debug\net8.0\Matrix Shuffling.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\bin\Debug\net8.0\Matrix Shuffling.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\bin\Debug\net8.0\Matrix Shuffling.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\bin\Debug\net8.0\Matrix Shuffling.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\bin\Debug\net8.0\Matrix Shuffling.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net8.0\Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net8.0\Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net8.0\Matrix Shuffling.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net8.0\Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net8.0\Matrix Shuffling.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net8.0\refint\Matrix Shuffling.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net8.0\Matrix Shuffling.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net8.0\Matrix Shuffling.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Matrix Shuffling\Matrix Shuffling\obj\Debug\net8.0\ref\Matrix Shuffling.dll
