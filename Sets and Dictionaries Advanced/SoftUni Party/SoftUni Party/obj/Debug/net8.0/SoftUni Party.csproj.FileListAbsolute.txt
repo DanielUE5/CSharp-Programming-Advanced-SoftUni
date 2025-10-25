@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\bin\Debug\net8.0\SoftUni Party.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\bin\Debug\net8.0\SoftUni Party.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\bin\Debug\net8.0\SoftUni Party.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\bin\Debug\net8.0\SoftUni Party.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\bin\Debug\net8.0\SoftUni Party.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net8.0\SoftUni Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net8.0\SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net8.0\SoftUni Party.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net8.0\SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net8.0\SoftUni Party.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net8.0\refint\SoftUni Party.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net8.0\SoftUni Party.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net8.0\SoftUni Party.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\SoftUni Party\SoftUni Party\obj\Debug\net8.0\ref\SoftUni Party.dll
