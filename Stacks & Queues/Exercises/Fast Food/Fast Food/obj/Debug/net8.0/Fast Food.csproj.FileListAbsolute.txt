@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fast Food\Fast Food\bin\Debug\net8.0\Fast Food.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fast Food\Fast Food\bin\Debug\net8.0\Fast Food.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fast Food\Fast Food\bin\Debug\net8.0\Fast Food.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fast Food\Fast Food\bin\Debug\net8.0\Fast Food.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fast Food\Fast Food\bin\Debug\net8.0\Fast Food.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fast Food\Fast Food\obj\Debug\net8.0\Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fast Food\Fast Food\obj\Debug\net8.0\Fast Food.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fast Food\Fast Food\obj\Debug\net8.0\Fast Food.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fast Food\Fast Food\obj\Debug\net8.0\Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fast Food\Fast Food\obj\Debug\net8.0\Fast Food.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fast Food\Fast Food\obj\Debug\net8.0\refint\Fast Food.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fast Food\Fast Food\obj\Debug\net8.0\Fast Food.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fast Food\Fast Food\obj\Debug\net8.0\Fast Food.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fast Food\Fast Food\obj\Debug\net8.0\ref\Fast Food.dll

@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fashion Boutique\Fashion Boutique\bin\Debug\net8.0\Fashion Boutique.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fashion Boutique\Fashion Boutique\bin\Debug\net8.0\Fashion Boutique.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fashion Boutique\Fashion Boutique\bin\Debug\net8.0\Fashion Boutique.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fashion Boutique\Fashion Boutique\bin\Debug\net8.0\Fashion Boutique.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fashion Boutique\Fashion Boutique\bin\Debug\net8.0\Fashion Boutique.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net8.0\Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net8.0\Fashion Boutique.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net8.0\Fashion Boutique.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net8.0\Fashion Boutique.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net8.0\Fashion Boutique.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net8.0\refint\Fashion Boutique.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net8.0\Fashion Boutique.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net8.0\Fashion Boutique.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Fashion Boutique\Fashion Boutique\obj\Debug\net8.0\ref\Fashion Boutique.dll

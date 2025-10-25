@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Songs Queue\Songs Queue\bin\Debug\net8.0\Songs Queue.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Songs Queue\Songs Queue\bin\Debug\net8.0\Songs Queue.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Songs Queue\Songs Queue\bin\Debug\net8.0\Songs Queue.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Songs Queue\Songs Queue\bin\Debug\net8.0\Songs Queue.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Songs Queue\Songs Queue\bin\Debug\net8.0\Songs Queue.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net8.0\Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net8.0\Songs Queue.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net8.0\Songs Queue.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net8.0\Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net8.0\Songs Queue.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net8.0\refint\Songs Queue.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net8.0\Songs Queue.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net8.0\Songs Queue.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Songs Queue\Songs Queue\obj\Debug\net8.0\ref\Songs Queue.dll
