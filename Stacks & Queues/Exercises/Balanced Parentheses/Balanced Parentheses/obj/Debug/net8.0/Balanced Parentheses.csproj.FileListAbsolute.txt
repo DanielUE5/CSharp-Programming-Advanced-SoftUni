@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Balanced Parentheses\Balanced Parentheses\bin\Debug\net8.0\Balanced Parentheses.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Balanced Parentheses\Balanced Parentheses\bin\Debug\net8.0\Balanced Parentheses.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Balanced Parentheses\Balanced Parentheses\bin\Debug\net8.0\Balanced Parentheses.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Balanced Parentheses\Balanced Parentheses\bin\Debug\net8.0\Balanced Parentheses.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Balanced Parentheses\Balanced Parentheses\bin\Debug\net8.0\Balanced Parentheses.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net8.0\Balanced Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net8.0\Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net8.0\Balanced Parentheses.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net8.0\Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net8.0\Balanced Parentheses.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net8.0\refint\Balanced Parentheses.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net8.0\Balanced Parentheses.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net8.0\Balanced Parentheses.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Balanced Parentheses\Balanced Parentheses\obj\Debug\net8.0\ref\Balanced Parentheses.dll

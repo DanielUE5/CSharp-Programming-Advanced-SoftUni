@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Simple Text Editor\Simple Text Editor\bin\Debug\net8.0\Simple Text Editor.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Simple Text Editor\Simple Text Editor\bin\Debug\net8.0\Simple Text Editor.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Simple Text Editor\Simple Text Editor\bin\Debug\net8.0\Simple Text Editor.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Simple Text Editor\Simple Text Editor\bin\Debug\net8.0\Simple Text Editor.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Simple Text Editor\Simple Text Editor\bin\Debug\net8.0\Simple Text Editor.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net8.0\Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net8.0\Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net8.0\Simple Text Editor.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net8.0\Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net8.0\Simple Text Editor.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net8.0\refint\Simple Text Editor.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net8.0\Simple Text Editor.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net8.0\Simple Text Editor.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Stacks and queues - Exercise\Simple Text Editor\Simple Text Editor\obj\Debug\net8.0\ref\Simple Text Editor.dll
