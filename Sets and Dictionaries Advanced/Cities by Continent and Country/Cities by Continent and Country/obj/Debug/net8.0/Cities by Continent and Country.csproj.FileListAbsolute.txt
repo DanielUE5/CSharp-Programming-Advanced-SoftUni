@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Cities by Continent and Country\Cities by Continent and Country\bin\Debug\net8.0\Cities by Continent and Country.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Cities by Continent and Country\Cities by Continent and Country\bin\Debug\net8.0\Cities by Continent and Country.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Cities by Continent and Country\Cities by Continent and Country\bin\Debug\net8.0\Cities by Continent and Country.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Cities by Continent and Country\Cities by Continent and Country\bin\Debug\net8.0\Cities by Continent and Country.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Cities by Continent and Country\Cities by Continent and Country\bin\Debug\net8.0\Cities by Continent and Country.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net8.0\Cities by Continent and Country.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net8.0\Cities by Continent and Country.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net8.0\Cities by Continent and Country.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net8.0\Cities by Continent and Country.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net8.0\Cities by Continent and Country.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net8.0\refint\Cities by Continent and Country.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net8.0\Cities by Continent and Country.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net8.0\Cities by Continent and Country.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net8.0\ref\Cities by Continent and Country.dll

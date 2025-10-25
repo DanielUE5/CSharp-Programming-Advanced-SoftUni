@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\Product Shop\bin\Debug\net8.0\Product Shop.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\Product Shop\bin\Debug\net8.0\Product Shop.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\Product Shop\bin\Debug\net8.0\Product Shop.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\Product Shop\bin\Debug\net8.0\Product Shop.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\Product Shop\bin\Debug\net8.0\Product Shop.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\Product Shop\obj\Debug\net8.0\Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\Product Shop\obj\Debug\net8.0\Product Shop.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\Product Shop\obj\Debug\net8.0\Product Shop.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\Product Shop\obj\Debug\net8.0\Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\Product Shop\obj\Debug\net8.0\Product Shop.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\Product Shop\obj\Debug\net8.0\refint\Product Shop.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\Product Shop\obj\Debug\net8.0\Product Shop.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\Product Shop\obj\Debug\net8.0\Product Shop.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\Product Shop\Product Shop\obj\Debug\net8.0\ref\Product Shop.dll
