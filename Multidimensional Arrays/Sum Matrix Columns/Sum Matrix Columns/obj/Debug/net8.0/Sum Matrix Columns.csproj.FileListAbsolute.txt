@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\net8.0\Sum Matrix Columns.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\net8.0\Sum Matrix Columns.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\net8.0\Sum Matrix Columns.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\net8.0\Sum Matrix Columns.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\net8.0\Sum Matrix Columns.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net8.0\Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net8.0\Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net8.0\Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net8.0\Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net8.0\Sum Matrix Columns.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net8.0\refint\Sum Matrix Columns.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net8.0\Sum Matrix Columns.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net8.0\Sum Matrix Columns.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net8.0\ref\Sum Matrix Columns.dll

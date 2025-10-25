@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\bin\Debug\net8.0\Primary Diagonal.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\bin\Debug\net8.0\Primary Diagonal.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\bin\Debug\net8.0\Primary Diagonal.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\bin\Debug\net8.0\Primary Diagonal.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\bin\Debug\net8.0\Primary Diagonal.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net8.0\Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net8.0\Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net8.0\Primary Diagonal.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net8.0\Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net8.0\Primary Diagonal.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net8.0\refint\Primary Diagonal.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net8.0\Primary Diagonal.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net8.0\Primary Diagonal.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Lab\Primary Diagonal\Primary Diagonal\obj\Debug\net8.0\ref\Primary Diagonal.dll
