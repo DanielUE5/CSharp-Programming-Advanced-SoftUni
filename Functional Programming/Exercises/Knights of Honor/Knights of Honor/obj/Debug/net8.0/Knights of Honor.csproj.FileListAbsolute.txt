@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Knights of Honor\Knights of Honor\bin\Debug\net8.0\Knights of Honor.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Knights of Honor\Knights of Honor\bin\Debug\net8.0\Knights of Honor.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Knights of Honor\Knights of Honor\bin\Debug\net8.0\Knights of Honor.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Knights of Honor\Knights of Honor\bin\Debug\net8.0\Knights of Honor.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Knights of Honor\Knights of Honor\bin\Debug\net8.0\Knights of Honor.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Knights of Honor\Knights of Honor\obj\Debug\net8.0\Knights of Honor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Knights of Honor\Knights of Honor\obj\Debug\net8.0\Knights of Honor.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Knights of Honor\Knights of Honor\obj\Debug\net8.0\Knights of Honor.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Knights of Honor\Knights of Honor\obj\Debug\net8.0\Knights of Honor.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Knights of Honor\Knights of Honor\obj\Debug\net8.0\Knights of Honor.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Knights of Honor\Knights of Honor\obj\Debug\net8.0\refint\Knights of Honor.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Knights of Honor\Knights of Honor\obj\Debug\net8.0\Knights of Honor.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Knights of Honor\Knights of Honor\obj\Debug\net8.0\Knights of Honor.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Knights of Honor\Knights of Honor\obj\Debug\net8.0\ref\Knights of Honor.dll

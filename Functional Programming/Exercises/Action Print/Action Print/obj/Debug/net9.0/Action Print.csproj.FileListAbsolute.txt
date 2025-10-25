@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Action Print\Action Print\bin\Debug\net9.0\Action Print.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Action Print\Action Print\bin\Debug\net9.0\Action Print.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Action Print\Action Print\bin\Debug\net9.0\Action Print.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Action Print\Action Print\bin\Debug\net9.0\Action Print.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Action Print\Action Print\bin\Debug\net9.0\Action Print.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Action Print\Action Print\obj\Debug\net9.0\Action Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Action Print\Action Print\obj\Debug\net9.0\Action Print.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Action Print\Action Print\obj\Debug\net9.0\Action Print.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Action Print\Action Print\obj\Debug\net9.0\Action Print.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Action Print\Action Print\obj\Debug\net9.0\Action Print.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Action Print\Action Print\obj\Debug\net9.0\refint\Action Print.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Action Print\Action Print\obj\Debug\net9.0\Action Print.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Action Print\Action Print\obj\Debug\net9.0\Action Print.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Action Print\Action Print\obj\Debug\net9.0\ref\Action Print.dll
