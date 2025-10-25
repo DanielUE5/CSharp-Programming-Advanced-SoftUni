@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Squares in Matrix\Squares in Matrix\bin\Debug\net8.0\Squares in Matrix.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Squares in Matrix\Squares in Matrix\bin\Debug\net8.0\Squares in Matrix.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Squares in Matrix\Squares in Matrix\bin\Debug\net8.0\Squares in Matrix.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Squares in Matrix\Squares in Matrix\bin\Debug\net8.0\Squares in Matrix.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Squares in Matrix\Squares in Matrix\bin\Debug\net8.0\Squares in Matrix.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Squares in Matrix\Squares in Matrix\obj\Debug\net8.0\Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Squares in Matrix\Squares in Matrix\obj\Debug\net8.0\Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Squares in Matrix\Squares in Matrix\obj\Debug\net8.0\Squares in Matrix.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Squares in Matrix\Squares in Matrix\obj\Debug\net8.0\Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Squares in Matrix\Squares in Matrix\obj\Debug\net8.0\Squares in Matrix.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Squares in Matrix\Squares in Matrix\obj\Debug\net8.0\refint\Squares in Matrix.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Squares in Matrix\Squares in Matrix\obj\Debug\net8.0\Squares in Matrix.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Squares in Matrix\Squares in Matrix\obj\Debug\net8.0\Squares in Matrix.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Squares in Matrix\Squares in Matrix\obj\Debug\net8.0\ref\Squares in Matrix.dll

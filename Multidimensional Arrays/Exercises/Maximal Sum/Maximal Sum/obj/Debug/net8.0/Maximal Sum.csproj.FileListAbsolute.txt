@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Maximal Sum\Maximal Sum\bin\Debug\net8.0\Maximal Sum.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Maximal Sum\Maximal Sum\bin\Debug\net8.0\Maximal Sum.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Maximal Sum\Maximal Sum\bin\Debug\net8.0\Maximal Sum.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Maximal Sum\Maximal Sum\bin\Debug\net8.0\Maximal Sum.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Maximal Sum\Maximal Sum\bin\Debug\net8.0\Maximal Sum.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Maximal Sum\Maximal Sum\obj\Debug\net8.0\Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Maximal Sum\Maximal Sum\obj\Debug\net8.0\Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Maximal Sum\Maximal Sum\obj\Debug\net8.0\Maximal Sum.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Maximal Sum\Maximal Sum\obj\Debug\net8.0\Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Maximal Sum\Maximal Sum\obj\Debug\net8.0\Maximal Sum.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Maximal Sum\Maximal Sum\obj\Debug\net8.0\refint\Maximal Sum.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Maximal Sum\Maximal Sum\obj\Debug\net8.0\Maximal Sum.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Maximal Sum\Maximal Sum\obj\Debug\net8.0\Maximal Sum.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Multidimensional Arrays - Exercise\Maximal Sum\Maximal Sum\obj\Debug\net8.0\ref\Maximal Sum.dll
