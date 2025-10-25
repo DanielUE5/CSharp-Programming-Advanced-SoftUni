@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Find Evens or Odds\Find Evens or Odds\bin\Debug\net8.0\Find Evens or Odds.exe
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Find Evens or Odds\Find Evens or Odds\bin\Debug\net8.0\Find Evens or Odds.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Find Evens or Odds\Find Evens or Odds\bin\Debug\net8.0\Find Evens or Odds.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Find Evens or Odds\Find Evens or Odds\bin\Debug\net8.0\Find Evens or Odds.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Find Evens or Odds\Find Evens or Odds\bin\Debug\net8.0\Find Evens or Odds.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Find Evens or Odds\Find Evens or Odds\obj\Debug\net8.0\Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Find Evens or Odds\Find Evens or Odds\obj\Debug\net8.0\Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Find Evens or Odds\Find Evens or Odds\obj\Debug\net8.0\Find Evens or Odds.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Find Evens or Odds\Find Evens or Odds\obj\Debug\net8.0\Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Find Evens or Odds\Find Evens or Odds\obj\Debug\net8.0\Find Evens or Odds.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Find Evens or Odds\Find Evens or Odds\obj\Debug\net8.0\refint\Find Evens or Odds.dll
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Find Evens or Odds\Find Evens or Odds\obj\Debug\net8.0\Find Evens or Odds.pdb
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Find Evens or Odds\Find Evens or Odds\obj\Debug\net8.0\Find Evens or Odds.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\C# Advanced\Functional Programming - Exercise\Find Evens or Odds\Find Evens or Odds\obj\Debug\net8.0\ref\Find Evens or Odds.dll
